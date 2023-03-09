@@ -1,0 +1,51 @@
+h1 {
+  color: #8a949c;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 25px;
+  line-height: 10px;
+  padding-top: 20px;
+  text-align: left;
+}
+.day {
+  color: #272f35;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 10px;
+  line-height: 45px;
+  text-align: left;
+}
+.mood {
+  color: #272f35;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 10px;
+  line-height: 5px;
+  text-align: left;
+}
+
+li {
+  color: rgb(139, 146, 153);
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+  list-style: none;
+  padding: 0px;
+}
+
+.Temperature {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 20px;
+  font-size: 40px;
+  padding-left: 10px;
+}
+.degree {
+  position: relative;
+  top: -20px;
+  font-weight: 15px;
+  font-size: 15px;
+}
+
+.surrounding {
+  border: 2px solid #faf7f7;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: auto;
+  border-radius: 10px;
+}
